@@ -18,12 +18,14 @@ Apply smooth shading for seamless surface transitions
 Use the Principled BSDF shader to replicate Phong-like reflections
 Adjust lighting and material settings to control the intensity and sharpness of highlights
 Each step is clearly explained, from material setup to rendering, showcasing how Phong shading produces smooth, visually rich specular effects.
+
 Watch here: <https://youtu.be/dPaPgcUN0ow>
 
 ## B. Gouraud Shading Tutorial
 This tutorial explains Gouraud Shading, focusing on how lighting is calculated at the vertex level and then interpolated across the surface to create smooth transitions.
 Using Blender, the video demonstrates how to approximate Gouraud shading through custom shader nodes or lighting techniques that simulate vertex-based illumination.
 A visual comparison with Phong Shading is included to highlight the key differences, particularly in how each method renders specular highlights and overall surface realism.
+
 Watch here: <https://www.youtube.com/watch?v=oQ_GjmPQnP0>
  
 ## 3. Learning Objectives
@@ -49,7 +51,10 @@ Platform: YouTube (for hosting videos)
 ## 6. Contributors
 
 Gatmach Yuol Nyuon
+
 Newton Luttah
+
 Rebecca Shirievo
+
 Derrick Gacheru
 
